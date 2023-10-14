@@ -65,6 +65,11 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/a
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
+### `npm run build` fails to minify
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+"# HighFly-Music-Player" 
+
 # HighFly-Music-Player
 # Music Player using ReactJS and Spotify API
 
@@ -135,25 +140,39 @@ To get started with the project, follow these steps:
 The project structure is as follows:
 
 ```
-music-player/
+highfly-music-player/
   README.md
   .env
   package.json
   public/
     index.html
     favicon.ico
+    logo192.png
+    logo512.png
   src/
     App.js
     index.js
     components/
-      TrackList.js
-      Player.js
-      Playlist.js
+      audioPlayer/
+      queue/
+      sidebar/
+      songCard/
+      widgets/
       ...
-    services/
-      spotifyAPI.js
-    utils/
-      formatTime.js
+    screens/
+      auth/
+      favourite/
+      feed/
+      home/
+      library/
+      player/
+      trending/
+      ...
+    shared/
+      globalstyle.css
+    spotifyAPI.js
+    App.js
+    ...
 ```
 
 ## Contributing
@@ -179,7 +198,3 @@ git push origin feature/my-feature
 
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
 
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-"# HighFly-Music-Player" 
