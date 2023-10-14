@@ -83,7 +83,7 @@ To get started with the project, follow these steps:
 
 1. Clone the repository:
 
-   ```
+ ```
    git clone https://github.com/your-username/music-player.git
    ```
    
@@ -102,14 +102,14 @@ To get started with the project, follow these steps:
 
 4. Create a `.env` file in the root directory and add your Spotify API credentials:
 
-   ```
+  ```
    REACT_APP_CLIENT_ID=your-client-id
    REACT_APP_CLIENT_SECRET=your-client-secret
    ``` 
 
 5. Start the development server:
 
-   ```
+  ```
    npm start
    ``` 
 
