@@ -175,7 +175,7 @@ highfly-music-player/
     ...
 ```
 ## Demo
-`Login`
+### `Login`
 ![login_page](https://github.com/Shashanktriathi1703/HighFly-Music-Player/assets/105815482/c70f0d47-9582-472e-a782-d627dd2aa869)
 
 `Library`
