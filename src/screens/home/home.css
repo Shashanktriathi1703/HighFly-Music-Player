@@ -1,0 +1,10 @@
+.main-body{
+    height: 100vh;
+    width: 100vw;
+    /* background-color: #ff943d; */
+    background-color: #f9884b;
+    background-image: linear-gradient(75deg, #f9884b 0%, #fec018 100%);
+
+    border-radius: 30px;
+    display: flex;
+}
