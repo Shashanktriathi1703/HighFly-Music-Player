@@ -175,13 +175,13 @@ highfly-music-player/
     ...
 ```
 ## Demo
-### `Login`
+  Login
 ![login_page](https://github.com/Shashanktriathi1703/HighFly-Music-Player/assets/105815482/c70f0d47-9582-472e-a782-d627dd2aa869)
 
-`Library`
+  Library
 ![library](https://github.com/Shashanktriathi1703/HighFly-Music-Player/assets/105815482/8af7ef9a-82a2-4549-9c48-60c795c63e17)
 
-`Player`
+  Player
 ![player1](https://github.com/Shashanktriathi1703/HighFly-Music-Player/assets/105815482/81850ac2-8d2f-443c-88b2-c2bfb176cfff)
 
 
