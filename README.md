@@ -83,34 +83,35 @@ To get started with the project, follow these steps:
 
 1. Clone the repository:
 
-   
+   ```
    git clone https://github.com/your-username/music-player.git
+   ```
    
 
 2. Navigate to the project directory:
 
-   
+  ``` 
    cd music-player
-   
+   ```
 
 3. Install the dependencies:
 
-   
+  ``` 
    npm install
-   
+   ```
 
 4. Create a `.env` file in the root directory and add your Spotify API credentials:
 
-   
+   ```
    REACT_APP_CLIENT_ID=your-client-id
    REACT_APP_CLIENT_SECRET=your-client-secret
-   
+   ``` 
 
 5. Start the development server:
 
-   
+   ```
    npm start
-   
+   ``` 
 
 6. Open your browser and visit `http://localhost:3000` to access the music player application.
 
@@ -133,7 +134,7 @@ To get started with the project, follow these steps:
 
 The project structure is as follows:
 
-
+```
 music-player/
   README.md
   .env
@@ -153,25 +154,25 @@ music-player/
       spotifyAPI.js
     utils/
       formatTime.js
-
+```
 
 ## Contributing
 
 Contributions are welcome! If you find any issues or have suggestions for improvements, please create a pull request or open an issue.
 1. Fork the repository on GitHub. 
 2. Create a new branch with a descriptive name:
-
+```
 git checkout -b feature/my-feature
-
+```
 3. Make your desired changes.
 4. Commit your changes with a meaningful commit message:
-
+```
 git commit -m "Add feature or fix"
-
+```
 5. Push your branch to your forked repository:
-
+```
 git push origin feature/my-feature
-
+```
 6. Open a pull request, describing your changes in detail, on the original repository.
 
 ## License
